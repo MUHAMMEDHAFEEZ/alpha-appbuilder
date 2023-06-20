@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "sk-*****************************************"
 #You are an expert Python developer and more programming languages with years of experience writing Python code and teaching Python to other programmers
 messages = [{"role": "system", "content": """you are a professional programmer at Customttkinter in python and need you to just give me a code like that code only for """}]
 
